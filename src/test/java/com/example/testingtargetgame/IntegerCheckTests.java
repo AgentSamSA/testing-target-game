@@ -2,6 +2,9 @@ package com.example.testingtargetgame;
 
 import static org.junit.Assert.assertEquals;
 
+import com.example.testingtargetgame.UserInput.IIntegerCheck;
+import com.example.testingtargetgame.UserInput.IntegerCheck;
+
 import org.junit.Test;
 
 public class IntegerCheckTests {

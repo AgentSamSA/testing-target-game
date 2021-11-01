@@ -2,6 +2,9 @@ package com.example.testingtargetgame;
 
 import static org.junit.Assert.assertEquals;
 
+import com.example.testingtargetgame.UserInput.IRangeCheck;
+import com.example.testingtargetgame.UserInput.ValidAngleCheck;
+
 import org.junit.Test;
 
 public class ValidAngleCheckTests {

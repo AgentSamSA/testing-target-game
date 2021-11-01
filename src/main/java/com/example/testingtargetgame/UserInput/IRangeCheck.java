@@ -1,4 +1,4 @@
-package com.example.testingtargetgame;
+package com.example.testingtargetgame.UserInput;
 
 public interface IRangeCheck {
     boolean getResult(int num);

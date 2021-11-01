@@ -1,4 +1,4 @@
-package com.example.testingtargetgame;
+package com.example.testingtargetgame.UserInput;
 
 public class IntegerCheck implements IIntegerCheck {
     public boolean getResult(String s) {

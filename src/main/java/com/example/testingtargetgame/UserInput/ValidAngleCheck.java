@@ -1,4 +1,4 @@
-package com.example.testingtargetgame;
+package com.example.testingtargetgame.UserInput;
 
 public class ValidAngleCheck implements IRangeCheck {
     public boolean getResult(int num) {

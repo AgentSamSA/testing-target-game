@@ -1,4 +1,4 @@
-package com.example.testingtargetgame;
+package com.example.testingtargetgame.UserInput;
 
 public class ValidVelocityCheck implements IRangeCheck {
     public boolean getResult(int num) {
